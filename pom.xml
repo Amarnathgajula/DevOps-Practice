@@ -3,15 +3,15 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>whatspp.com</groupId>
   <artifactId>com.whatsapp</artifactId>
-  <packaging>jar</packaging>
-  <version>whatsapp</version>
-  <name>com.whatsapp</name>
+  <packaging>war</packaging>
+  <version>whatsapap</version>
+  <name>com.whatsapap</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>3.8.1.0</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
